@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo"  />
-  <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82" height="30" alt="nextjs logo"  />
+  <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82" height="30" alt="nuxt logo"  />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="30" alt="flutter logo"  />
@@ -72,10 +72,9 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
- <img width="8" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="30" alt="gitlab logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
@@ -91,19 +90,21 @@
   <img src="https://cdn.simpleicons.org/vite/646CFF" height="30" alt="vite logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo"  />
-  <img width="8" />
-
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Danielseta-ui&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2&custom_title=Favorite%20Languages" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Danielseta-ui&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Danielseta-ui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Danielseta-ui&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<br/>
 
 ###
 
 
 
-
+###
