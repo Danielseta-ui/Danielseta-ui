@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">Lusaka-based Software Developer and UI/UX Designer specializing in high-end, user-focused web applications for the remote market. 💻✨ #SethPixels #00-1 </p>
+<p align="left">Lusaka-based Software Engineer and UI/UX Designer specializing in high-end, user-focused web applications for the remote market. 💻✨ #SethPixels #00-1 </p>
 
 ###
 
